@@ -11,14 +11,14 @@
 
 <img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 Bachelor in Computer Engineering  
-- 💻 Passionate about **AI/ML, Web Development & Data Science**
-- 🌱 Currently learning **Advanced Machine Learning & Full Stack Development**
-- 🔥 Building real-world projects using **Python, Flask & Scikit-Learn**
-- 📫 Reach me at: **sandarvlamichhane1@gmail.com**
-- ⚡ Fact: No one can defeat you until you defeat yourself.
+-  Bachelor in Computer Engineering  
+-  Passionate about **AI/ML, Web Development & Data Science**
+-  Currently learning **Advanced Machine Learning & Full Stack Development**
+-  Building real-world projects using **Python, Flask & Scikit-Learn**
+-  Reach me at: **sandarvlamichhane1@gmail.com**
+-  Fact: No one can defeat you until you defeat yourself.
 
 ---
 
@@ -46,7 +46,7 @@
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 <div align="left">
 
@@ -83,19 +83,7 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=4Sandarv&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Sandarv&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <div align="center">
 
@@ -105,7 +93,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
+#  GitHub Trophies
 
 <div align="center">
 
@@ -115,7 +103,7 @@
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 <div align="center">
 
@@ -125,7 +113,7 @@
 
 ---
 
-# 🐍 Snake Eating My Contributions
+#  Snake Eating My Contributions
 
 <div align="center">
 
